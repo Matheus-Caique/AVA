@@ -11,7 +11,8 @@ Este projeto é um sistema educacional simples, desenvolvido em linguagem C, com
 - Deletar Cadastros
 
 ## Estrutura Matricula
-![estrutura_matricula](https://github.com/user-attachments/assets/49dcb6b5-1c87-40f9-a0ef-8d275655f5c8)
+![estrutura_matricula](https://github.com/user-attachments/assets/b95b79d7-2b58-4695-b279-db56ddd66134)
+
 
 
 ###  Professor
@@ -20,7 +21,8 @@ Este projeto é um sistema educacional simples, desenvolvido em linguagem C, com
 - Ver respostas enviadas pelos alunos para uma atividade específica
 
 ## Estrutura Atividade
-![estrutura_atividade](https://github.com/user-attachments/assets/cb6b84c8-b01b-42b9-9518-43db048c529d)
+![estrutura_atividade](https://github.com/user-attachments/assets/ab448200-dd1a-4f62-9392-c39e8257d7df)
+
 
 
 ###  Aluno
@@ -38,4 +40,5 @@ Este projeto é um sistema educacional simples, desenvolvido em linguagem C, com
 O sistema utiliza **filas genéricas com ponteiros void** para armazenar dinamicamente dados de alunos, professores, atividades e respostas durante a execução.
 
 ### Estrutura da Fila:
-![fila_dinamica](https://github.com/user-attachments/assets/a485806d-4756-4685-b40c-e32819c5f1b8)
+![fila_dinamica](https://github.com/user-attachments/assets/8ec8e828-430e-4da2-b6e0-74e61dc60981)
+
